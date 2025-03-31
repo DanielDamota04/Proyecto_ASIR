@@ -1,4 +1,4 @@
-# 🛡️ Proyecto Final ASIR: Configuración de un Entorno Windows Server AD en VMware (Por Daniel Damota Maldonado)
+# 🛡️ Proyecto Final ASIR: Configuración, Ataque y Defensa de un entorno AD en VMware (Por Daniel Damota Maldonado)
 
 ## Descripción del Proyecto
 Este proyecto tiene como objetivo la implementación y configuración de un entorno Windows Server con Active Directory (AD) en VMware. Además, se analizarán los ataques más comunes contra Active Directory y las estrategias para mitigar estos riesgos.
