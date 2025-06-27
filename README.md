@@ -12,13 +12,13 @@ Este proyecto tiene como objetivo la implementación y configuración de un ento
 ## Requisitos
 - **Hardware:**
   - Procesador compatible con virtualización
-  - Mínimo 16GB de RAM
+  - Mínimo 32GB de RAM
   - Espacio en disco suficiente para alojar máquinas virtuales
 
 - **Software:**
-  - VMware Workstation / VMware ESXi
-  - Windows Server 2019/2022
-  - Windows 10/11 (para clientes)
+  - VMware Workstation 17.6.3
+  - Windows Server 2022
+  - Windows 10 (para clientes)
   - Kali Linux para realizar ataques
 
 ## Pasos realizados
